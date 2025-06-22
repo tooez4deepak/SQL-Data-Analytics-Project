@@ -1,6 +1,6 @@
-# SQL-Data-Analytics-Project
-
 # Data Warehouse and Analytics Project
+
+# SQL-Data-Analytics-Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 
